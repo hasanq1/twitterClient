@@ -2,7 +2,7 @@
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: 3 hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. Android emulator issues on m1 mac. tested code on friends computer for the gif. will discuss issues.
 
 ## Open-source libraries used
 
